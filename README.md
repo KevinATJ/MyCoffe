@@ -1,20 +1,13 @@
 # MyCoffee
 
 ## Descripción
-MyCoffee es mi nueva aplicación móvil creada para los amantes del café, permitiéndote explorar, personalizar y compartir recetas de café a tu gusto. 
-¿Quieres perfeccionar tus técnicas o probar algo nuevo?
-MyCoffee te acompaña con guías predefinidas y recetas personalizadas, brindándote todo lo necesario para que cada taza sea perfecta.
-Nuestra interfaz amigable y atractiva, diseñada especialmente para los fanáticos del café, te permitirá disfrutar de una agradable experiencia visual, con imágenes e íconos representativos para cada receta.
+
+MyCoffee es mi nueva aplicación móvil creada para los amantes del café, permitiéndote explorar, personalizar y compartir recetas de café a tu gusto\n. 
+¿Quieres perfeccionar tus técnicas o probar algo nuevo?\n
+MyCoffee te acompaña con guías predefinidas y recetas personalizadas, brindándote todo lo necesario para que cada taza sea perfecta.\n
+Nuestra interfaz amigable y atractiva, diseñada especialmente para los fanáticos del café, te permitirá disfrutar de una agradable experiencia visual, con imágenes e íconos representativos para cada receta.\n
 MyCoffee: Tu pasión por el café, en tu propio bolsillo.
 
-<<<<<<< HEAD
-MyCoffee es mi nueva aplicación móvil creada para los amantes del café, permitiéndote explorar, personalizar y compartir recetas de café a tu gusto. 
-¿Quieres perfeccionar tus técnicas o probar algo nuevo? 
-MyCoffee te acompaña con guías predefinidas y recetas personalizadas, brindándote todo lo necesario para que cada taza sea perfecta.
-Nuestra interfaz amigable y atractiva, diseñada especialmente para los fanáticos del café, te permitirá disfrutar de una agradable experiencia visual, con imágenes e íconos representativos para cada receta. 
-MyCoffee: Tu pasión por el café, en tu propio bolsillo.
-=======
->>>>>>> bcf9b9c577728228d0b12d05969c677514cd6825
 
 ## Requerimientos
 
@@ -38,13 +31,11 @@ MyCoffee: Tu pasión por el café, en tu propio bolsillo.
 4. MyCoffee debe presentar iconos acordes y de fácil identificación.
 
 ## Diagrama de clases
-<<<<<<< HEAD
 
 ![Diagrama de Clases](assets/DiagramaMyCoffe.png)
 
 ## Enlaces videos
 
-[Video presentación](https://drive.google.com/file/d/1N9043VJ-9QV7QKd6fKoG5D9J3KNlbRmq/view?usp=sharing)
+[Video presentación](https://drive.google.com/file/d/1N9043VJ-9QV7QKd6fKoG5D9J3KNlbRmq/view?usp=sharing)\n
 [Video uso en emulador android](https://drive.google.com/file/d/1REG61jnd98l03gh9Y_LQmFl6z4hMyqJG/view?usp=sharing)
-=======
->>>>>>> bcf9b9c577728228d0b12d05969c677514cd6825
+
