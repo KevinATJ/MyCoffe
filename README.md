@@ -44,3 +44,7 @@ MyCoffee: Tu pasión por el café, en tu propio bolsillo.
 
 - [Video uso en emulador android](https://drive.google.com/file/d/1REG61jnd98l03gh9Y_LQmFl6z4hMyqJG/view?usp=sharing)
 
+## Extra
+
+- Se recomienda ejecutar en la terminal "flutter pub get" antes de iniciar el programa, el cual debe ser compilado por el main.dart.
+
